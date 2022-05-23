@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T19:14:17.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="uzGUSEA9a_Z2oF4DQ9bP" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T19:17:07.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="2WCyC-X02i75AZI0FGjq" version="18.1.1" type="github">
   <diagram id="uq2SqN55Rye5webqZwm4" name="Page-1">
     <mxGraphModel dx="1113" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,6 +101,15 @@
         </mxCell>
         <mxCell id="q0zf_KYt9hu8evr4kqVK-40" value="section contacts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="605" y="790" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0zf_KYt9hu8evr4kqVK-41" value="section map" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0zf_KYt9hu8evr4kqVK-42" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="120" y="910" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0zf_KYt9hu8evr4kqVK-43" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="910" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
